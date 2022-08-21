@@ -9,7 +9,7 @@ Facebook: Miggy Brns my profile link: https://www.facebook.com/profile.php?id=10
 
 Instagram: @miggybriones760 (I don't know how to get my own profile link)
 
-YouTube: Gems Briones my channel link: https://www.youtube.com/channel/UCizjg-vCZXHHeWWZ15vZfNA
+YouTube: Gems Briones channel link: https://www.youtube.com/channel/UCizjg-vCZXHHeWWZ15vZfNA
 
 Github: @gemsthecoder (me ofc) https://github.com/gemsthecoder
 
