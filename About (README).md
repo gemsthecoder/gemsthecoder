@@ -5,9 +5,13 @@
 - 📫 How to reach me ...
 
 Twitter: @mggy_brns my profile link: https://twitter.com/mggy_brns
+
 Facebook: Miggy Brns my profile link: https://www.facebook.com/profile.php?id=100075860562210
+
 Instagram: @miggybriones760 (I don't know how to get my own profile link)
+
 YouTube: Gems Briones my channel link: https://www.youtube.com/channel/UCizjg-vCZXHHeWWZ15vZfNA
+
 Github: @gemsthecoder (me ofc) https://github.com/gemsthecoder
 
 
