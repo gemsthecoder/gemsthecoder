@@ -23,6 +23,11 @@ YouTube: Gems Briones | https://www.youtube.com/channel/UCizjg-vCZXHHeWWZ15vZfNA
 Github: @gemsthecoder (me ofc) | https://github.com/gemsthecoder
 
 I also have 2 cats 🐈. They are named Mickey and Vogart. 
+
+<h2>Ongoing projects:</h2> 
+
+mgycatgifs.github.io (unpublished)
+
 <!---
 gemsthecoder/gemsthecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
