@@ -1,4 +1,4 @@
-# About me
+# My biography
 
 Hello, I’m <b>@gemsthecoder</b> aka "Miggy".
 
