@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gemsthecoder aka Miggy
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning web development & programming.
+Hello, I’m @gemsthecoder aka "Miggy". 
+I’m have big interests in Information Technology.
+I’m currently learning web development & programming.
 
 
 Twitter: @mggy_brns my profile link: https://twitter.com/mggy_brns
