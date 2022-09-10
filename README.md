@@ -1,5 +1,9 @@
-Hello, I’m @gemsthecoder aka "Miggy". 
-I’m have big interests in Information Technology.
+# About me
+
+Hello, I’m <b>@gemsthecoder</b> aka "Miggy".
+
+I have big interests in Information Technology.
+
 I’m currently learning web development & programming.
 
 
