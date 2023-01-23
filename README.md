@@ -22,7 +22,7 @@ Github: @gemsthecoder (me ofc) | https://github.com/gemsthecoder
 
 I also have a cat, her name is Mickey.
 
-<h2>Ongoing projects:</h2> 
+<h2>Ongoing/Active projects:</h2> 
 
 NONE
 
