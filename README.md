@@ -2,8 +2,6 @@
 
 Hello, I’m <b>@gemsthecoder</b> aka "Miggy".
 
-I have big interests in Information Technology.
-
 I’m currently learning web development & programming.
 
 
